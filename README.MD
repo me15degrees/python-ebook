@@ -1,13 +1,18 @@
 <p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
-
-
+    <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
+    <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a>
+</p>
 
 # Construindo E-BOOKs com auxílio de IA's
 
- > Segundo projeto de desenvolvimento no Bootcamp Santander realizado na plataforma [DIO](https://dio.me)!
+<img 
+    align=center 
+    margin=10 
+    width=300 
+    src="assets/capa_ebook.png"
+    />
+
+> Segundo projeto de desenvolvimento no Bootcamp Santander realizado na plataforma [DIO](https://dio.me)!
 
 Projeto com o objetivo de gerar um E-book digital com as facilidades das ferramentas de IA. Todos os prompts estão disponíveis logo abaixo:
 
@@ -19,7 +24,6 @@ Projeto com o objetivo de gerar um E-book digital com as facilidades das ferrame
 - [Canva](https://www.canva.com/)
 
 ## 🧠 Prompts
-
 
 ChatGPT：
 
