@@ -9,7 +9,7 @@
 
  > Segundo projeto de desenvolvimento no Bootcamp Santander realizado na plataforma [DIO](https://dio.me)!
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts estão disponíveis logo abaixo:
+Projeto com o objetivo de gerar um E-book digital com as facilidades das ferramentas de IA. Todos os prompts estão disponíveis logo abaixo:
 
 <a href="output/Ebook Python Básico.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
@@ -27,7 +27,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Paleta de cores | Crie uma paleta de cores baseado nas cores oficiais do python. REGRAS: 4 cores hexadecimais.                                                       |
 | Conteúdo | Crie conteúdos separados em 10 páginas para um e-book que ensina o básico da programação em python. REGRAS: possuir uma sugestão de título por tópico; não ultrapassar de 10 linhas cada explicação; possuir trechos de código exemplificando.
-|
+
 
 ## ✨ Features
 
