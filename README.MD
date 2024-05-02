@@ -56,7 +56,7 @@ ChatGPT：
     &nbsp&nbsp&nbsp
     <a href="https://github.com/me15degrees">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/maria-eduarda-nascimento-andrade-bb0b86213/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/maria-eduarda-nascimento-andrade/">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/me15degrees/">
     Instagram</a>
